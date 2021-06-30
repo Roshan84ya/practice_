@@ -1,2 +1,3 @@
-# practice_
-practice some DS and algorithms
+# Hii there 
+this repo is all about some DS good questions and algo for inteviews.
+
